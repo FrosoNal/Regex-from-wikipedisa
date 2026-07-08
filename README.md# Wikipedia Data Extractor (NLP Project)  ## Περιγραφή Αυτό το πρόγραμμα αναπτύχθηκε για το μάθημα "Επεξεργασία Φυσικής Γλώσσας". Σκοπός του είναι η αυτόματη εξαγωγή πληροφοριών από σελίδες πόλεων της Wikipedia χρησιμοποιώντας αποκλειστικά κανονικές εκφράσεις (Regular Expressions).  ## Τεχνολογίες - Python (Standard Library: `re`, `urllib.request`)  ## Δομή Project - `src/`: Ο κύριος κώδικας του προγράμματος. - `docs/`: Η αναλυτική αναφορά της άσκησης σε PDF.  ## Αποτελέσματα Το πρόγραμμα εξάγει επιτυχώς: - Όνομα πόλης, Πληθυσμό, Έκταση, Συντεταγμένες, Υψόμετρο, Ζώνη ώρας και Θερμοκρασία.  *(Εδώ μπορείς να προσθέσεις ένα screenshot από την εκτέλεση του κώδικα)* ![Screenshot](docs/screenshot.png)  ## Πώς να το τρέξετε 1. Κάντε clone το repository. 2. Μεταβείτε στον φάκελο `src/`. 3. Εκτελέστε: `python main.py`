@@ -1,0 +1,20 @@
+# Wikipedia Data Extractor 
+
+## Description
+The automatic extraction of information in Wikipedia by using only regulars.
+
+## What I used
+- Python (Standard Library: `re`, `urllib.request`)
+
+## Project
+- `src/`: Codes.
+- `docs/`: Report with 10 different cities.
+
+## Results
+The project extract succedly:
+- Name of the city, Population, Area, Coordinates, Country, Altitud, TimeZone and Temprature(High, Low, Mean).
+
+## How to run
+1. Clone the repository.
+2. Go to `src/`.
+3. Run: `python main.py`
